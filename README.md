@@ -24,7 +24,7 @@ This repository documents my **learning journey** step by step.
 
 Each topic is organized as a **Part**, not by days, so it can be studied at any pace.
 
-'''Linear-Algebra-for-ML/
+```Linear-Algebra-for-ML/
 │
 ├── Part1_Vectors.ipynb
 ├── Part2_Matrices.ipynb
@@ -33,7 +33,7 @@ Each topic is organized as a **Part**, not by days, so it can be studied at any 
 ├── Part5_Eigen.ipynb
 ├── Part6_SVD.ipynb
 ├── Part7_Optimization.ipynb
-└── README.md'''
+└── README.md```
 
 
 ---
