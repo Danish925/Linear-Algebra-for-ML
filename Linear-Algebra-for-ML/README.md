@@ -39,72 +39,71 @@ Linear-Algebra-for-ML/
 
 ---
 
+
+---
+
 ## 📚 Contents Overview
 
 ### 🔹 Part 1: Vectors
-- What vectors really represent in ML
+- Vector representation in Machine Learning
 - Vector operations (addition, magnitude, dot product)
 - Cosine similarity
 - Unit vectors
-- NumPy-based experiments
+- Numerical experiments using NumPy
 
 ---
 
 ### 🔹 Part 2: Matrices
-- Dataset as a matrix
-- Matrix shape and why it matters
-- Matrix–vector multiplication (predictions)
-- Transpose, identity, inverse (intuition)
-- ML connection to linear regression
+- Dataset representation as matrices
+- Matrix shape and transformations
+- Matrix–vector multiplication (model predictions)
+- Transpose, identity, and inverse (conceptual understanding)
+- Connection to linear regression models
 
 ---
 
 ### 🔹 Part 3: Systems of Linear Equations
-- Writing systems as `AX = B`
-- Augmented matrices
-- Gaussian elimination
-- Types of solutions
-- Overdetermined systems (real ML scenario)
-- Least squares approximation
+- Matrix formulation of systems (`AX = B`)
+- Augmented matrices and elimination
+- Solution types and consistency
+- Overdetermined systems in real-world data
+- Least-squares approximation
 
 ---
 
 ### 🔹 Part 4: Vector Spaces & Span
 - Vector spaces and linear combinations
-- Span and geometric intuition
-- Linear independence vs redundancy
+- Span and geometric interpretation
+- Linear independence and redundancy
 - Basis and dimension
 - Feature space interpretation in ML
-- Rank and redundancy
 
 ---
 
 ### 🔹 Part 5: Eigenvalues & Eigenvectors
-- Eigenvalue equation intuition
-- Geometric meaning
-- Why eigenvalues represent importance
+- Eigenvalue equation and geometric meaning
+- Importance of eigenvalues
 - PCA intuition
-- Covariance matrix eigen-decomposition
+- Covariance matrix analysis
 
 ---
 
 ### 🔹 Part 6: SVD & Matrix Decomposition
-- Why eigenvalues are not enough
+- Limitations of eigen-decomposition
 - Singular Value Decomposition (SVD)
-- Singular values as importance
 - Low-rank approximation
 - Noise reduction and compression
-- Why PCA uses SVD internally
+- Practical relevance to PCA and ML systems
 
 ---
 
 ### 🔹 Part 7: Gradients & Optimization
-- Why optimization is needed in ML
+- Motivation for optimization in ML
 - Loss functions
 - Gradient intuition
 - Gradient descent algorithm
-- Learning rate effects
-- How ML models actually learn
+- Learning rate behavior
+- Mathematical basis of model training
 
 ---
 
@@ -117,28 +116,40 @@ Linear-Algebra-for-ML/
 
 ---
 
-## 👨‍🎓 Who This Repo Is For
+## 👨‍🎓 Intended Audience
 
-- Beginners in **Machine Learning / Data Science**
-- BCA / CS students
-- Anyone revising **ML mathematics**
-- Learners who prefer **intuition + practice** over heavy theory
+- Students preparing for **Machine Learning / AI research**
+- Undergraduate students (BCA / CS / related fields)
+- Learners building a **strong mathematical foundation** for graduate studies
+- Individuals transitioning toward **research-oriented ML**
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer (Important)
 
-This repository is **not a textbook or research work**.  
-It represents my **personal learning notes and experiments** while studying Linear Algebra for Machine Learning.
+This repository represents my **foundational study and self-learning work** in Linear Algebra for Machine Learning.
+
+- It is **not intended as original research**
+- It serves as **preparatory material** for advanced coursework, research projects, and graduate-level study
+- All notebooks reflect **my understanding, experimentation, and interpretation** of standard mathematical concepts
+
+This repository is part of my **academic preparation toward research-oriented programs** in Machine Learning and Artificial Intelligence.
 
 ---
 
 ## 🚀 Next Steps
 
-After completing this foundation, I plan to:
+After completing this mathematical foundation, I plan to:
+
+- Study **Probability & Statistics for Machine Learning**
 - Implement **Machine Learning algorithms from scratch**
-- Work with **scikit-learn**
-- Build **end-to-end ML projects**
+- Explore **optimization methods and model generalization**
+- Transition toward **research-oriented topics** such as:
+  - Dimensionality reduction
+  - Probabilistic models
+  - Model evaluation and theoretical understanding
+
+This repository serves as a **base layer** for my future academic and research work.
 
 ---
 
