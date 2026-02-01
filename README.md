@@ -39,7 +39,7 @@ Linear-Algebra-for-ML/
 
 ---
 
-
+```
 ---
 
 ## 📚 Contents Overview
